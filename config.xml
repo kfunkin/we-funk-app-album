@@ -12,6 +12,8 @@
       App-album by French Fries
   </description>
 
-<platform name="android" />
+  <platform name="android">
+    <icon src="icon.png" />
+  </platform>
 
 </widget>
