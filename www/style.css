@@ -287,8 +287,9 @@ p {
   margin: -35px;
   width: 70px;
   height: 70px;
-  background-color: #fff;
+  background-color: #84d2f6;
   border-radius: 100%;
+  opacity: 0.5;
   -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
   animation: sk-scaleout 1.0s infinite ease-in-out;
   display: none;
@@ -458,6 +459,7 @@ mark {
   animation-timing-function: ease-in-out;
 }
 
+
 @keyframes bluetxt-cvr-anim {
   0% {
     opacity: 0.2;
@@ -469,6 +471,13 @@ mark {
     opacity: 0.2;
   }
 }
+
+#cover-sticker {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+
 
 
 /*MIDDLE1***************************************************************************************************************/

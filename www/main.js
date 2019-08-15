@@ -27,7 +27,7 @@ closeBtn.addEventListener('click', function() {
   screen.orientation.lock("landscape-primary");
 }, false);*/
 
-/*Draggable.create("#bluetxt-cvr", {
+/*Draggable.create("#cover-sticker", {
 	type:"x, y"
 
 });*/
