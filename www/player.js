@@ -293,13 +293,38 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: 'Feel Real',
-    file: 'feel-real',
+    title: 'This Time',
+    file: 'this-time',
+    howl: null
+  },
+  {
+    title: 'Gettin Bad',
+    file: 'gettin-bad',
+    howl: null
+  },
+  {
+    title: 'Creepin',
+    file: 'creepin',
     howl: null
   },
   {
     title: 'Queen Of Soul',
     file: 'queen-of-soul',
+    howl: null
+  },
+  {
+    title: 'Stutter',
+    file: 'stutter',
+    howl: null
+  },
+  {
+    title: 'Scuba',
+    file: 'scuba',
+    howl: null
+  },
+  {
+    title: 'Feel Real',
+    file: 'feel-real',
     howl: null
   }
 
