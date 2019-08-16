@@ -26,26 +26,3 @@ closeBtn.addEventListener('click', function() {
   document.documentElement.requestFullScreen();
   screen.orientation.lock("landscape-primary");
 }, false);*/
-
-/*Draggable.create("#cover-sticker", {
-	type:"x, y"
-
-});*/
-
-
-
-
-/*var el = document.querySelector('div.pinch-zoom');
-new PinchZoom.default(el, {
-  lockDragAxis: false,
-  draggableUnzoomed: true,
-  setOffsetsOnce: false,
-  verticalPadding: 0.5,
-  horizontalPadding: 0.5,
-  tapZoomFactor: 4,
-});*/
-
-
-/*new window.PinchZoom.default(document.querySelector('.pinch-zoom'), {
-  draggableUnzoomed: true, lockDragAxis: false,
-});*/
